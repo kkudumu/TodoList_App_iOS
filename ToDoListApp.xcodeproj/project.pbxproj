@@ -15,6 +15,7 @@
 		330F08E21FB6590700B20801 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 330F08E01FB6590700B20801 /* LaunchScreen.storyboard */; };
 		330F08ED1FB6590700B20801 /* ToDoListAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330F08EC1FB6590700B20801 /* ToDoListAppTests.swift */; };
 		330F08F81FB6590700B20801 /* ToDoListAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330F08F71FB6590700B20801 /* ToDoListAppUITests.swift */; };
+		33B73A5B1FB6823600C8D48D /* FirstViewControllerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B73A5A1FB6823600C8D48D /* FirstViewControllerTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		330F08F31FB6590700B20801 /* ToDoListAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToDoListAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		330F08F71FB6590700B20801 /* ToDoListAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListAppUITests.swift; sourceTree = "<group>"; };
 		330F08F91FB6590700B20801 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		33B73A5A1FB6823600C8D48D /* FirstViewControllerTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewControllerTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				330F08DE1FB6590700B20801 /* Assets.xcassets */,
 				330F08E01FB6590700B20801 /* LaunchScreen.storyboard */,
 				330F08E31FB6590700B20801 /* Info.plist */,
+				33B73A5A1FB6823600C8D48D /* FirstViewControllerTableViewCell.swift */,
 			);
 			path = ToDoListApp;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				330F08DA1FB6590700B20801 /* SecondViewController.swift in Sources */,
 				330F08D61FB6590700B20801 /* AppDelegate.swift in Sources */,
 				330F08D81FB6590700B20801 /* FirstViewController.swift in Sources */,
+				33B73A5B1FB6823600C8D48D /* FirstViewControllerTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
